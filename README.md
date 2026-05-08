@@ -96,10 +96,12 @@ The following preprocessing steps were performed using Python:
 <img width="1845" height="955" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/3cf878e8-a09a-4f00-b501-290a0d43a026" />
 
 
-## 🔹 Genre Analysis Dashboard
+## 🔹 Amazon Prime Analysis Dashboard
+<img width="1920" height="997" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/12245fbc-c8f4-4591-a17e-97e750f24247" />
 
 
-## 🔹 Trend Analysis Dashboard
+## 🔹 Disney Plus Analysis Dashboard
+<img width="1898" height="998" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/36d91868-adc8-4243-ab31-5e251e15f7a7" />
 
 ---
 
