@@ -115,17 +115,6 @@ The following preprocessing steps were performed using Python:
 
 ---
 
-# 📁 Project Structure
-
-```bash
-OTT-Platform-Analysis/
-│
-├── datasets/
-├── python/
-├── powerbi/
-├── screenshots/
-└── README.md
-```
 
 ---
 
@@ -151,6 +140,6 @@ This analysis helps:
 # 🤝 Connect With Me
 
 ## GitHub
-https://github.com/chaitanyadarekar2002-wq
+https://github.com/chaitanyadarekar2002
 
 # ⭐ If you found this project useful, consider giving it a star!
